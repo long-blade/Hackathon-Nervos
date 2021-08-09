@@ -1,6 +1,6 @@
 1. A screenshot of the console output immediately after you have successfully deployed a smart contract.
 
-![alt text](https://github.com/long-blade/Hackathon-Nervos/blob/main/task1/deployed_smart_contract.png?raw=true)
+![deployed_smart_contract.png](https://github.com/long-blade/Hackathon-Nervos/blob/main/task2/deployed_smart_contract.png?raw=true)
 
 2. The transaction hash from the contract deployment (in text format).
 
