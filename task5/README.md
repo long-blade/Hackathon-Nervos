@@ -2,7 +2,7 @@
 
 1. A screenshot of the console output immediately after deploying smart contract.
 
-![alt text](https://github.com/long-blade/Hackathon-Nervos/tree/main/task5/deployed_SUDT-ERC20.png?raw=true)
+![deployed_SUDT-ERC20.png](https://github.com/long-blade/Hackathon-Nervos/tree/main/task5/deployed_SUDT-ERC20.png?raw=true)
 
 2. The address of the ERC20 Proxy Contract you deployed (in text format).
 
@@ -10,7 +10,7 @@
 
 3. A screenshot of the console output immediately after checking your SUDT balance.
 
-![alt text](https://github.com/long-blade/Hackathon-Nervos/tree/main/task5/check-sudt-balance.png?raw=true)
+![check-sudt-balance.png](https://github.com/long-blade/Hackathon-Nervos/tree/main/task5/check-sudt-balance.png?raw=true)
 
 
 4. The Ethereum address that was checked (in text format).
