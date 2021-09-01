@@ -10,8 +10,8 @@ https://github.com/long-blade/Hackathon-Nervos/tree/main/task7/bank.mkv
 https://github.com/long-blade/Hackathon-Nervos/tree/main/task7/app
 
 Contract `Bank`:
-- Transaction hash: 0x26b96d68e53d58731c091c4741a2923db0d25fb9e423f276509de7d547468c69
-- Deployed contract address: 0xc94ff4076e7ac4c77AAD61689234b3D33F990D77 
+- Transaction hash: 0xb187c6c12198d0a3744f4375369140ac061f6850821448cd77612e870146ee62
+- Deployed contract address: 0xE3d92e2940DB711F7304deb0a2219f7E382369C9
 
 ```
 "abi": [
