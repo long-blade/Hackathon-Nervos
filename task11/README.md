@@ -62,6 +62,3 @@ https://explorer.nervos.org/aggron/address/ckt1qyqyvzfurkc0l5kfdyjhwvezffwg68dnt
 
 8. Your Tron address (in text format).
 TCnBLwN9nwQHUp46u5JRygX4zGk9QaXm4T
-
-Tron:
-0x8a1738e3095c1628104c8c24c71ab65dac5f0e9415471472cb720bd3f9ab6335 
