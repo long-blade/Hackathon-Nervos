@@ -41,7 +41,7 @@ https://explorer.nervos.org/aggron/address/ckt1qyqyvzfurkc0l5kfdyjhwvezffwg68dnt
       "name": "withdraw",
       "outputs": [],
       "stateMutability": "nonpayable",
-      "type": "function"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
+      "type": "function"
     },
     {
       "inputs": [],
