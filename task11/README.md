@@ -1,4 +1,4 @@
-##Gitcoin: 11) Use a Tron Wallet to Execute a Smart Contract Call
+## Gitcoin: 11) Use a Tron Wallet to Execute a Smart Contract Call
 
 
 1. A screenshot of the accounts you created (account list) in ckb-cli.
