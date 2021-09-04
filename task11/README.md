@@ -41,7 +41,7 @@ https://explorer.nervos.org/aggron/address/ckt1qyqyvzfurkc0l5kfdyjhwvezffwg68dnt
       "name": "withdraw",
       "outputs": [],
       "stateMutability": "nonpayable",
-      "type": "function"
+      "type": "function"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
     },
     {
       "inputs": [],
@@ -64,4 +64,4 @@ https://explorer.nervos.org/aggron/address/ckt1qyqyvzfurkc0l5kfdyjhwvezffwg68dnt
 TCnBLwN9nwQHUp46u5JRygX4zGk9QaXm4T
 
 Tron:
-Ox8a1738e3095c1628104c8c24c71ab65dac5f0e9415471472cb720bd3f9ab6335 
+0x8a1738e3095c1628104c8c24c71ab65dac5f0e9415471472cb720bd3f9ab6335 
